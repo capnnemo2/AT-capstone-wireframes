@@ -42,3 +42,7 @@ section:nth-child(even) {
 .product {
   border: solid black 1px;
 }
+
+ul {
+  list-style-type: none;
+}
